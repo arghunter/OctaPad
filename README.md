@@ -14,17 +14,20 @@ An irregular octagon macropad. Why? I felt like it.
 - 4x Blank DSA keycaps (White)
 - 16x SK6812 MINI-E LEDs 
 
+## Assembly
+![image](https://github.com/user-attachments/assets/f4177070-1575-42fd-ad2e-1f5084f8535d)
+
+
 ## PCB
-![image](https://github.com/user-attachments/assets/3a3fe874-3d1f-4370-b125-9fa9d6b822c0)
-![image](https://github.com/user-attachments/assets/9d6174cc-9eb7-4365-9348-764f3d5b45e2)
-Schematic and Layout Available in PCB folder
+![image](https://github.com/user-attachments/assets/982e05ae-0ffb-4ccb-b475-f336d03028a8)
+![image](https://github.com/user-attachments/assets/e6febc21-1aae-4cba-b5f1-09ea6f3260b8)
 
 ## Case
 - Stuck together with superglue
 ![image](https://github.com/user-attachments/assets/7c8419e3-b2ab-441d-a86c-08ee850b7655)
 ![image](https://github.com/user-attachments/assets/ad638cde-e4f1-4783-ba29-4535b4ab84ce)
 ![image](https://github.com/user-attachments/assets/9c9f089a-fc5b-4507-9089-5e4318d68e8a)
-![image](https://github.com/user-attachments/assets/15e473af-efe4-426d-85a8-7b6a7c3706bc)
+
 
 ## Firmware
 - Written in KMK within firmware folder.
