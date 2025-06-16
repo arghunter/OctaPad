@@ -1,4 +1,4 @@
-# OctaPad
+# OctoPad
 An irregular octagon macropad. Why? I felt like it. 
 ## Features
 - 1x OLED Screen
